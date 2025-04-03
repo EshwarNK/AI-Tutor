@@ -6,4 +6,5 @@ AI-Tutor for Seattle DataAI Project
 
 [@ahumblefool](https://github.com/ahumblefool)
 [@utopianvision](https://github.com/utopianvision)
-https://github.com/MeghaN28 @MeghaN28
+ [@MeghaN28](https://github.com/MeghaN28)
+ [Neharor](https://github.com/Neharor)
